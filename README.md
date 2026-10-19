@@ -1,4 +1,4 @@
-# Zoom MS-70CDR: six-slot MIDI control
+# Zoom MS-70CDR: Full MIDI Control
 
 Notes, tools and a patch for the **Zoom MS-70CDR** multi-effects pedal (only this model was tested).
 
