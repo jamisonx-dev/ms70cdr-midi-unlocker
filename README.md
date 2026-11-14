@@ -51,6 +51,8 @@ basic command set), shooking/ZoomPedalFun, and Barsik's Zoom Firmware Editor.
 
 Not affiliated with or endorsed by ZOOM Corporation.
 
+**The text here, aside from the README description, was written by Claude and has seen (at most) minor editing by the human behind this, this notification notwithstanding**
+
 ## License
 
 MIT for the code and notes in this repository (see `LICENSE`). `msog_effects.json` derives from MIT-licensed
